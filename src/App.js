@@ -12,6 +12,7 @@ const App = () => {
   return (
     <div className="app">
       <Accordion items={accordionItems} />
+      <p>this is test</p>
     </div>
   );
 };
